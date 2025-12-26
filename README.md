@@ -2,13 +2,13 @@
 
 基于 [Astro](https://astro.build) 开发的静态博客模板。
 
-本开源项目仅我本人在维护
+本开源项目是站在前人肩膀上做出的
 
 [**🖥️在线预览**](https://fuwari.oh1.top)
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
-## 食用方法(以Netlify举例)
+## 咋用？(以Netlify举例)
 1.  [Fork本项目](https://github.com/yCENzh/fuwari/fork)
 2.  使用 [Cloudflare](https://netlify.com/) 创建一个项目 -> 导入现有Git存储库 -> 保存并构建(本项目以pnpm构建)
 3.  没了,非常的简单,后续食用方法请查看我的博客
