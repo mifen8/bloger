@@ -16,3 +16,5 @@ series: Examples
 然后回头再更改别的
 
 图片还没自定义，文章分类，还有标签什么的都没弄完呢！
+
+![MIUI 8](https://cia.sec.miui.com/miui-14-homepage/miui-v8.png?imageMogr2/thumbnail/700x/quality/80/format/webp)
