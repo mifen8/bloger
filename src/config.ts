@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "Wexin @mifener", // Credit text to be displayed
-			url: "https://mmbiz.qpic.cn/mmbiz_gif/cqvibRicVrWYf94AKzGU67Zmjz2q8vicR3wq2HBKmODydgXnMaEUG4GMrKWRlKamG8F6NTWrYtkWd5CSabkicMibrNQ/0?wx_fmt=gif&wxfrom=3", // (Optional) URL link to the original artwork or artist's page
+			url: "![aa608e83203598ab.jpg](https://github.com/user-attachments/assets/518face6-75a2-4d69-a0b3-7fcfcbd454ff)", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
