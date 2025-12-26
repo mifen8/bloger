@@ -6,7 +6,7 @@
 
 [**🖥️在线预览**](https://mifener.pages.dev/)
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![Preview Image](![Screenshot_2025-12-27-07-32-35-357_com.android.browser.jpg](https://github.com/user-attachments/assets/5e338833-31df-4f6a-82b2-28239f0b07de))
 
 ## 咋用？(以Netlify举例)
 1.  https://github.com/mifen8/bloger/fork)
