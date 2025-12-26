@@ -4,7 +4,7 @@
 
 本开源项目是站在前人肩膀上做出的
 
-[**🖥️在线预览**](https://fuwari.oh1.top)
+[**🖥️在线预览**](https://mifener.pages.dev/)
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
@@ -15,7 +15,7 @@
 
 Fuwari 是一个开源的主题。本网站用于该项目的文档、演示与社区信息。
 
-- 网站： https://fuwari.oh1.top
+- 网站： https://mifener.pages.dev/
 - 仓库： https://github.com/yCENzh/fuwari
 - License： MIT（见 ./LICENSE）
 - Code of Conduct： ./CODE_OF_CONDUCT.md
