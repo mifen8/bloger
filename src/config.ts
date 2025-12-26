@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
 	title: "Mifener's Blog",
 	subtitle: "welcome to share tech",
 	themeColor: {
-		hue: 275, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 35, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 		forceDarkMode: false, // Force dark mode and hide the light/dark switcher
 	},
