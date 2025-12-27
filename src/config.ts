@@ -30,11 +30,11 @@ export const siteConfig: SiteConfig = {
 		depth: 2, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
-		   {
-		     src: '/favicon/icon.webp',
-		//   theme: 'light',
-		//   sizes: '32x32',
-		   }
+		{
+			src: '/favicon/icon.webp',
+			//   theme: 'light',
+			//   sizes: '32x32',
+		}
 	],
 };
 
@@ -84,8 +84,7 @@ export const profileConfig: ProfileConfig = {
 			name: "Telegram",
 			icon: "fa6-brands:telegram",
 			url: "https://t.me/yCENzh",
-		},/*
-
+		}
 	],
 };
 
@@ -100,4 +99,3 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Please select a dark theme, as this blog theme currently only supports dark background color
 	theme: "github-dark",
 };
-*/
