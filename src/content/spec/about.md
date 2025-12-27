@@ -1,5 +1,5 @@
 # About
-![大头照在此](https://efficient-pink-vwqoufcv3l-y8fc5oom60.edgeone.dev/mitu.png)
+![大头照在此](https://github.com/user-attachments/assets/dddf4ed7-0f57-4af5-9090-f3dec760f7f6)
 
 [/posts/mc/download/](/posts/mc/download/)
 
