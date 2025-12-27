@@ -1,5 +1,5 @@
 # About
-![大头照在此](<img width="616" height="604" alt="Image" src="https://github.com/user-attachments/assets/dddf4ed7-0f57-4af5-9090-f3dec760f7f6" />)
+![大头照在此](https://image.16pic.com/00/45/55/16pic_4555440_s.jpg)
 
 [/posts/mc/download/](/posts/mc/download/)
 
