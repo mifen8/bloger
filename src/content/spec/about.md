@@ -1,5 +1,5 @@
 # About
-![大头照在此](https://mmbiz.qpic.cn/mmbiz_jpg/cqvibRicVrWYeSJicpiaHM7IicOPPbYeia5E5JDa0YibPhQ4HGGSxOqvvaibFQ2biaTkjtm187h1KPvNyFyXvyeRySm25EQ/0?wxfrom=12&wx_fmt=jpg&tp=webp&usePicPrefetch=1&watermark=1)
+![大头照在此](<img width="616" height="604" alt="Image" src="https://github.com/user-attachments/assets/dddf4ed7-0f57-4af5-9090-f3dec760f7f6" />)
 
 [/posts/mc/download/](/posts/mc/download/)
 
