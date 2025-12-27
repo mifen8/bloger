@@ -1,5 +1,5 @@
 # About
-![大头照在此](https://image.16pic.com/00/45/55/16pic_4555440_s.jpg)
+![大头照在此](https://efficient-pink-vwqoufcv3l-y8fc5oom60.edgeone.dev/mitu.png)
 
 [/posts/mc/download/](/posts/mc/download/)
 
