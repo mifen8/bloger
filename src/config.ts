@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Friends,
 		/*{
 			name: "GitHub",
-			url: "https://github.com/yCENzh", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/mifen8/bloger", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},*/
 		{
@@ -85,11 +85,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:telegram",
 			url: "https://t.me/yCENzh",
 		},/*
-		{
-			name: "开往",
-			icon: "fa6-solid:train-subway",
-			url: "https://www.travellings.cn/train.html",
-		},*/
+
 	],
 };
 
