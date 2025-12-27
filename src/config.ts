@@ -78,5 +78,3 @@ export const licenseConfig: LicenseConfig = {
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	theme: "github-dark",
 };
-
-// Make sure there are NO extra /* or tabs or spaces after this
