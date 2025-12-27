@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Github @mifener", // Credit text to be displayed
+			text: "Blog @mifener", // Credit text to be displayed
 			url: "![aa608e83203598ab.jpg](https://github.com/user-attachments/assets/518face6-75a2-4d69-a0b3-7fcfcbd454ff)", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
