@@ -51,8 +51,8 @@ export const navBarConfig: NavBarConfig = {
 			external: true, // Show an external link icon and will open in a new tab
 		},*/
 		{
-			name: "Travelling",
-			url: "https://www.travellings.cn/train.html",
+			name: "GitHub@mifener",
+			url: "https://github.com/mifen8/bloger",
 			external: true,
 		},
 	],
@@ -78,7 +78,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/yCENzh",
+			url: "https://github.com/mifen8/bloger",
 		},
 		{
 			name: "Telegram",
