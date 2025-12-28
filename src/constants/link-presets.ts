@@ -17,3 +17,4 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		name: "专栏",
 		url: '/series/',
 	},
+};
